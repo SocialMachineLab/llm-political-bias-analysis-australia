@@ -1,0 +1,18 @@
+{
+    "party": "Liberal Party of Australia",
+    "accuracy": 0.6098741529525653,
+    "brier_score": 0.24587665258901847,
+    "precision": 0.379874213836478,
+    "recall": 0.49105691056910566,
+    "f1_score": 0.42836879432624114,
+    "confusion_matrix": [
+        [
+            958,
+            493
+        ],
+        [
+            313,
+            302
+        ]
+    ]
+}

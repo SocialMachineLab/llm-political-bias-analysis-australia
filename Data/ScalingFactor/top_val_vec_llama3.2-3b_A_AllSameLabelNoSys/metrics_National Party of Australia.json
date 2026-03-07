@@ -1,0 +1,18 @@
+{
+    "party": "National Party of Australia",
+    "accuracy": 0.3998063891577928,
+    "brier_score": 0.25122277863736964,
+    "precision": 0.229901269393512,
+    "recall": 0.6877637130801688,
+    "f1_score": 0.34460887949260044,
+    "confusion_matrix": [
+        [
+            500,
+            1092
+        ],
+        [
+            148,
+            326
+        ]
+    ]
+}

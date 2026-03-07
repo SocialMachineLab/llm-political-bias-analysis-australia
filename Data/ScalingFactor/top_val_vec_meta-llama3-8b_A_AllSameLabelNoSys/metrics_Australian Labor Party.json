@@ -1,0 +1,18 @@
+{
+    "party": "Australian Labor Party",
+    "accuracy": 0.5982575024201355,
+    "brier_score": 0.2498706427895493,
+    "precision": 0.36086404066073696,
+    "recall": 0.46481178396072015,
+    "f1_score": 0.4062947067238913,
+    "confusion_matrix": [
+        [
+            952,
+            503
+        ],
+        [
+            327,
+            284
+        ]
+    ]
+}
